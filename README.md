@@ -1,7 +1,5 @@
 # 05.2026-Cyclistic-Bike-Share-Case-Study
-Google Data Analytics Certificate Capstone Project analyzing user trends (May 2025 – April 2026) using Python and Tableau.
-
-# 🚴 Cyclistic Bike-Share Case Study
+Google Data Analytics Certificate Capstone Project: analyzing user trends (May 2025 – April 2026) using Python and Tableau.
 ### Google Data Analytics Certificate Capstone Project
 
 Welcome to my portfolio repository for the Cyclistic Bike-Share analysis. This project explores historical trip data to identify behavioral differences between casual riders and annual members, helping guide data-driven marketing strategies for future growth.
